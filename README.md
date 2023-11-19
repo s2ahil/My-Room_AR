@@ -10,6 +10,6 @@ or
 
 2nd show this to your QR code scanner : 
 
+![image](https://github.com/s2ahil/My-Room_AR/assets/101473078/12453639-d369-4f2b-afbb-ed9e9cf9fe32)
 
-![Uploading image.png…]()
 
