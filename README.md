@@ -1,6 +1,8 @@
 # My-Room_AR
 Personalized AR Experiences for Individual Room Doors
 
+adobe aero  file : https://drive.google.com/file/d/1rRlLOXLrU8LSmsPrjecEwF6yppzymzz2/view?usp=sharing
+
 1st scan this or go to the link  to install Adobe Aero on Android/ ios : 
 
 link : https://adobeaero.app.link/LywOSnHYQEb
