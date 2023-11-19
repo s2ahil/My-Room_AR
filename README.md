@@ -11,5 +11,5 @@ or
 2nd show this to your QR code scanner : 
 
 
+![Uploading image.png…]()
 
-![Adobe_Aero_icon_(2021) svg](https://github.com/s2ahil/My-Room_AR/assets/101473078/b64d2383-b373-493e-8275-bb876487d981)
