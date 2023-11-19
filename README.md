@@ -7,5 +7,6 @@ Personalized AR Experiences for Individual Room Doors
 
 
 2nd show this to your QR code scanner : 
+
 ![Uploading image.png…]()
 
